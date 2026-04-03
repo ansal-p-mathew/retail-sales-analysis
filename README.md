@@ -64,20 +64,4 @@ This project presents an end-to-end data analytics workflow to analyze customer 
 
 ---
 
-## 📁 Repository Structure
-customer-behavior-analysis-python-sql-powerbi/
-│
-├── data/          # Raw & cleaned datasets  
-├── python/        # Data preprocessing scripts  
-├── sql/           # SQL queries  
-├── powerbi/       # Power BI dashboard (.pbix)  
-├── images/        # Dashboard screenshots  
-└── README.md  
 
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/customer-behavior-analysis-python-sql-powerbi.git
-cd customer-behavior-analysis-python-sql-powerbi
