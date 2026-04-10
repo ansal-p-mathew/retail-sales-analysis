@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-## 🧾 Overview
+## Overview
 
 This project presents an end-to-end data analytics workflow to analyze customer shopping behavior and generate actionable insights.
 
@@ -14,7 +14,7 @@ Using Python, SQL, and Power BI, raw transactional data is transformed into mean
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 * Understand customer purchasing patterns
 * Identify key drivers of revenue and sales
