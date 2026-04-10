@@ -6,6 +6,7 @@ This project presents an end-to-end data analytics workflow to analyze customer 
 
 The analysis is structured using:
 
+
 * **Descriptive Analytics (What happened)**
 * **Diagnostic Analytics (Why it happened)**
 
