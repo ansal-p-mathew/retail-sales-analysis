@@ -4,7 +4,7 @@
 
 This project presents an end-to-end data analytics workflow to analyze customer shopping behavior and generate actionable insights.
 
-The analysis is structured using:
+The analysis is structured using
 
 
 * **Descriptive Analytics (What happened)**
