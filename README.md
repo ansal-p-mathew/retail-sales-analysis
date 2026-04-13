@@ -32,7 +32,7 @@ Using Python, SQL, and Power BI, raw transactional data is transformed into mean
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **Name:** Customer Shopping Behavior Dataset
 * **Type:** Transactional Data
