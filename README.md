@@ -24,7 +24,7 @@ Using Python, SQL, and Power BI, raw transactional data is transformed into mean
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python (Pandas, NumPy)** – Data cleaning & preprocessing
 * **SQL** – Data analysis & querying
