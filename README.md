@@ -40,7 +40,7 @@ Using Python, SQL, and Power BI, raw transactional data is transformed into mean
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ### 🔹 Data Cleaning & Preparation (Python)
 
