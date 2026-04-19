@@ -116,7 +116,7 @@ The Power BI dashboard provides interactive insights into:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * A small number of categories contribute the majority of revenue
 * High-value customers have a significant impact on overall sales
