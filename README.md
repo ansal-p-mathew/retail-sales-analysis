@@ -126,7 +126,7 @@ The Power BI dashboard provides interactive insights into:
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Screenshot](images/dashboard.png)
 
