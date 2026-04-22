@@ -128,6 +128,6 @@ The Power BI dashboard provides interactive insights into:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-04-21 205254.png)
+![Dashboard Screenshot](Retail.png)
 
 ---
