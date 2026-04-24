@@ -47,7 +47,8 @@ Using Python, SQL, and Power BI, raw transactional data is transformed into mean
 * Removed duplicate records
 * Handled missing values
 * Standardized column formats
-* Converted data types for analysis
+* Converted data types for analysis.
+
 
 ---
 
