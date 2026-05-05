@@ -22,6 +22,7 @@ Using Python, SQL, and Power BI, raw transactional data is transformed into mean
 * Segment customers based on behavior
 * Enable data-driven business decisions
 
+
 ---
 
 ## Tech Stack
