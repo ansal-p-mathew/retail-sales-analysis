@@ -82,7 +82,7 @@ This provides a **clear snapshot of overall business performance and customer ac
 
 ## 🔹 Diagnostic Analysis (Why It Happened?)
 
-Diagnostic analytics was applied to identify underlying causes behind trends and patterns:
+Diagnostic analytics was applied to identify underlying causes behind trends and patterns
 
 * Identification of **high-revenue categories** driving overall sales
 * Detection of **low-performing categories** contributing less revenue
