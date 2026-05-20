@@ -9,7 +9,7 @@ The analysis is structured using
 * **Descriptive Analytics (What happened)**
 * **Diagnostic Analytics (Why it happened)**
 
-Using Python, SQL, and Power BI, raw transactional data is transformed into meaningful business intelligence
+Using Python, SQL, and Power BI, raw transactional data is transformed into meaningful business intelligence.
 
 ---
 
